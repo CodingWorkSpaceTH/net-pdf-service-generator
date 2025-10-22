@@ -1,0 +1,5 @@
+{
+  "name": ".NET PDF Service Generator",
+  "description": "An application to generate .NET Core C# service code for creating various PDF documents like Invoices, Quotations, Receipts, and Purchase Orders using the QuestPDF library.",
+  "requestFramePermissions": []
+}
